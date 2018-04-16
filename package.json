@@ -34,7 +34,7 @@
   "typings": "./widgets/systelab-components.module.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/systelab/systelab-components.git"
+    "url": "https://github.com/roco65/systelab-components.git"
   },
   "dependencies": {
     "ag-grid": "^16.0.1",
